@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Pat Collins
 
-I like to:
+I like to: watch movies from different countries, interact with people, make things
 
-I'm learning:
+I'm learning: Fullstack Web development (hopefully)
 
 ```
 
